@@ -1,2 +1,2 @@
 # Dotfiles
-My personal Config
+Alacritty + vim Config
