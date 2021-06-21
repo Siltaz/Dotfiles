@@ -1,2 +1,5 @@
 # Dotfiles
-Alacritty + vim Config
+
+1. Alacritty
+2. Vim Config
+3. Zsh
