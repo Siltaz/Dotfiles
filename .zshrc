@@ -5,6 +5,7 @@ alias sshir='ssh irieen@112.133.247.55'
 alias sshlocal='ssh siltaz@192.168.1.2'
 alias sshlk='ssh -i "/Users/siltaz/MEGA/AccessKeys/Like Karo/like-karo.pem" azureuser@40.121.58.57'
 alias sshioflood='ssh -i "/Users/siltaz/.ssh/id_rsa" riteshkumar@104.161.92.74'
+
 # React Native Aliases
 
 alias rnios='npx react-native run-ios'
